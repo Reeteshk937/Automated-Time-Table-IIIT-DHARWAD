@@ -1,0 +1,83 @@
+[
+  {
+    "code": "CS261",
+    "name": "Operating System",
+    "credits": 2.0,
+    "type": "Regular",
+    "category": "Department Core Theory",
+    "section": "A",
+    "faculty": "Dr. Suvadip Hazra"
+  },
+  {
+    "code": "CS262",
+    "name": "Software Design Tools and Techniques",
+    "credits": 3.0,
+    "type": "Regular",
+    "category": "Department Core Theory",
+    "section": "A",
+    "faculty": "Dr. Sunil Kumar P V"
+  },
+  {
+    "code": "CS263",
+    "name": "Design and Analysis of Algorithms",
+    "credits": 4.0,
+    "type": "Regular",
+    "category": "Department Core Theory",
+    "section": "A",
+    "faculty": "Dr. Malay Kumar"
+  },
+  {
+    "code": "CS264",
+    "name": "Computer Networks",
+    "credits": 4.0,
+    "type": "Regular",
+    "category": "Department Core Theory",
+    "section": "A",
+    "faculty": "Dr. Prabhu Prasad"
+  },
+  {
+    "code": "EC251",
+    "name": "Electronics System Design-I",
+    "credits": 2.0,
+    "type": "Regular",
+    "category": "Department Elective",
+    "section": "A",
+    "faculty": "Dr. Pankaj Kumar"
+  },
+  {
+    "code": "HS261",
+    "name": "Ethics and Values",
+    "credits": 2.0,
+    "type": "Regular",
+    "category": "Department Core Theory",
+    "section": "A",
+    "faculty": "Dr. Aswath Babu H"
+  },
+  {
+    "code": "HS262",
+    "name": "Environmental Studies",
+    "credits": 1.0,
+    "type": "Regular",
+    "category": "Department Core Theory",
+    "section": "A",
+    "faculty": "Dr. Aswath Babu H"
+  },
+  {
+    "code": "MA261",
+    "name": "Differential Equations",
+    "credits": 2.0,
+    "type": "Regular",
+    "category": "Department Core Theory",
+    "section": "A",
+    "faculty": "Dr. Anand P. Barangi"
+  },
+  {
+    "code": "MA262",
+    "name": "Multivariate Calculus",
+    "credits": 2.0,
+    "type": "Regular",
+    "category": "Department Core Theory",
+    "section": "A",
+    "faculty": "Dr. Somen Bhattacharjee"
+  }
+]
